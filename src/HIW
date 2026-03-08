@@ -1,0 +1,9 @@
+How this app works?
+The app follows a simple MVC-like flow. 
+The GUI collects input, the DAO handles database operations, 
+and the table displays results. 
+Each button triggers a specific method, 
+and the table listener makes editing intuitive. 
+The schema shows how user actions flow through 
+the interface, DAO, and database.
+
